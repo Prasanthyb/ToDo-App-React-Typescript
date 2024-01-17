@@ -1,12 +1,12 @@
-# A complete TO-Do App 
+# A complete TO-Do App  with REACT AND TYPESCRIPT
 
 # React
 
-#Typescript
+# Typescript
 
-#UseContext
+# UseContext
 
-#UseSearchParams
+# UseSearchParams
 
-#FormEvent
+# FormEvent
 
